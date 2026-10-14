@@ -1,4 +1,7 @@
 # Agricultural Monitoring with Fields of The World (FTW)
+
+> **Tutorial fork:** This is a fork of [Climate Change AI teaching material](https://github.com/climatechange-ai-tutorials/agricultural-monitoring-ftw). The tutorial and its authors are credited below; it is listed as learning material in [my portfolio](https://github.com/AtharvaAiren), separately from original project work.
+
 This tutorial demonstrates how to generate field boundaries globally using the Fields of The World dataset, pretrained models, and command line interface (CLI). We then show how to use those boundaries in agricultural monitoring tasks under climate change, including crop type classification and forest loss monitoring. By the end, users will be able to perform the following tasks to support climate change-related decision-making: (1) Extract agricultural field boundaries for any location, (2) Build machine learning models for crop type classification, and (3) Analyze forest loss within agricultural landscapes. By equipping users with the ability to generate field boundaries and link them to climate-relevant monitoring tasks, this tutorial lowers the barrier for researchers, practitioners, and policymakers to access and deploy advanced geospatial AI.
 
 Author(s):
